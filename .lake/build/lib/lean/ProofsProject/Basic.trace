@@ -1,0 +1,21 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=/Users/janithafernando/proofs_project/.lake/packages/Cli/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/batteries/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/Qq/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/aesop/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/proofwidgets/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/importGraph/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/plausible/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/packages/mathlib/.lake/build/lib/lean:/Users/janithafernando/proofs_project/.lake/build/lib/lean /Users/janithafernando/.elan/toolchains/leanprover--lean4---v4.20.0-rc5/bin/lean -Dpp.unicode.fun=true /Users/janithafernando/proofs_project/ProofsProject/Basic.lean -R /Users/janithafernando/proofs_project -o /Users/janithafernando/proofs_project/.lake/build/lib/lean/ProofsProject/Basic.olean -i /Users/janithafernando/proofs_project/.lake/build/lib/lean/ProofsProject/Basic.ilean -c /Users/janithafernando/proofs_project/.lake/build/ir/ProofsProject/Basic.c --json",
+   "level": "trace"}],
+ "inputs":
+ [["ProofsProject.Basic:deps",
+   [["deps",
+     [["proofs_project/ProofsProject:extraDep",
+       [["@proofs_project:extraDep", "1723"]]],
+      ["import oleans", "1723"]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.20.0, commit 81b85203c90439fb7d7e0cec32130d62d8cb7a2e",
+   "11339845437623234285"],
+  ["Module.leanArgs: #[-Dpp.unicode.fun=true]", "16183078925686905371"],
+  ["/Users/janithafernando/proofs_project/ProofsProject/Basic.lean",
+   "2433114807351286261"]],
+ "depHash": "15082719931785412253"}

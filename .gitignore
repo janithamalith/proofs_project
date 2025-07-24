@@ -1,0 +1,6 @@
+lakefile.lean
+lake-manifest.json
+.lean
+.lean_cache
+/build
+/build/
